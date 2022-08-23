@@ -1,0 +1,3 @@
+# SentimentAnalysis
+
+execute QTFront.py 
